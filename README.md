@@ -1,6 +1,6 @@
 # spinning-putin
-spinning putin in threeJS haha amon gus
+spinning putin in threeJS
 
 requirements: nodeJS, threeJS
 
-preview: https://streamable.com/39dowi
+preview: https://www.youtube.com/watch?v=R-9IYMAQfLo
